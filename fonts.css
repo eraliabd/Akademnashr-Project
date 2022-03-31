@@ -1,0 +1,26 @@
+@font-face {
+    font-family: rc-r;
+    src: url(../fonts/RobotoCondensed-Regular.ttf);
+}
+@font-face {
+    font-family: rc-b;
+    src: url(../fonts/RobotoCondensed-Bold.ttf);
+}
+@font-face {
+    font-family: rb-m;
+    src: url(../fonts/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: rb-r;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: rb-b;
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+
+body, * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
